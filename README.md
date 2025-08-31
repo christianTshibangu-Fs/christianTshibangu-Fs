@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'am Christian Tshibangu is a backend software engineer whose vision is to change lives through technology.
 <!--
 **christianTshibangu-Fs/christianTshibangu-Fs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
